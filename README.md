@@ -10,5 +10,5 @@ the project only predicts the Adjusted Close price.
 
 
 # Referece:
-https://github.com/happysyp/Investment_and_Trading_Capstone_Project
+
 
