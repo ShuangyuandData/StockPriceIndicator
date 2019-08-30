@@ -8,3 +8,7 @@ Note that the inputs will contain multiple metrics, such as opening price (Open)
 many stocks were traded (Volume) and closing price adjusted for stock splits and dividends (Adjusted Close); 
 the project only predicts the Adjusted Close price.
 
+
+# Referece:
+https://github.com/happysyp/Investment_and_Trading_Capstone_Project
+
