@@ -2,8 +2,8 @@
 Libraries:
 
 1. pyramid-arima or pmdarima
-2. fbprophet
-3. keras
+2. keras
+3. tensorflow
 
 
 Summary: Investment firms, hedge funds and even individuals have been using financial models to better understand market 
