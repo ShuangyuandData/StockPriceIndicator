@@ -1,8 +1,9 @@
 # StockPriceIndicator
 Libraries:
 
-pyramid-arima or pmdarima
-fbprophet
+1. pyramid-arima or pmdarima
+2. fbprophet
+3. keras
 
 
 Summary: Investment firms, hedge funds and even individuals have been using financial models to better understand market 
