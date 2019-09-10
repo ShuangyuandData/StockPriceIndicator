@@ -15,6 +15,10 @@ Note that the inputs will contain multiple metrics, such as opening price (Open)
 many stocks were traded (Volume) and closing price adjusted for stock splits and dividends (Adjusted Close); 
 the project only predicts the Adjusted Close price.
 
+![Image of result](https://github.com/ShuangyuandData/StockPriceIndicator/blob/master/f1.png)
+![Image of result](https://github.com/ShuangyuandData/StockPriceIndicator/blob/master/f2.png)
+![Image of result](https://github.com/ShuangyuandData/StockPriceIndicator/blob/master/f3.png)
+![Image of result](https://github.com/ShuangyuandData/StockPriceIndicator/blob/master/f4.png)
 
 ### Referece:
 1. Udacity
