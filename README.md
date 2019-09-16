@@ -15,6 +15,11 @@ Note that the inputs will contain multiple metrics, such as opening price (Open)
 many stocks were traded (Volume) and closing price adjusted for stock splits and dividends (Adjusted Close); 
 the project only predicts the Adjusted Close price.
 
+1. Predict the adjusted close price based on the multiple metrics for stocks.
+2. Explore stocks of GOOG, IBM, GLD, SPY from 2010 to 2018
+3. Split data into train and test data (1/5) and perform regression using Linear Regression, K-Nearest Neighbors, Auto Arima, and Long Short Term Memory.
+4. Decrease RMS of the test data from over 100 to 4.
+
 ![Image of result](https://github.com/ShuangyuandData/StockPriceIndicator/blob/master/f1.png)
 ![Image of result](https://github.com/ShuangyuandData/StockPriceIndicator/blob/master/f2.png)
 ![Image of result](https://github.com/ShuangyuandData/StockPriceIndicator/blob/master/f3.png)
